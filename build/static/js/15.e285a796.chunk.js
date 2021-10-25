@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[15],{112:function(a,e,t){},308:function(a,e,t){},345:function(a,e,t){"use strict";t.r(e);t(0);var n=t(104),c=(t(112),t(308),t(3));e.default=function(a){a.image;return Object(c.jsx)(n.LazyLoadImage,{effect:"blur",alt:"Neca",src:"./neca-nat-logo-text.png","max-age":"31536000",className:"blue-logo"})}}}]);
+//# sourceMappingURL=15.e285a796.chunk.js.map

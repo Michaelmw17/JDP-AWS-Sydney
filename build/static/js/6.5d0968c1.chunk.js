@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[6],{105:function(t,e,c){},235:function(t,e,c){},341:function(t,e,c){"use strict";c.r(e);var n=c(0),s=c(72),a=c.n(s),i=(c(105),c(235),c(3));e.default=function(){return Object(i.jsx)(n.Suspense,{fallback:Object(i.jsx)(a.a,{type:"Puff",color:"#00BFFF",height:100,width:100,timeout:3e3}),children:Object(i.jsx)("img",{src:"./JDP-BRANDING-04.png",alt:"Logo","max-age":"31536000",className:"JDP-BRANDING"})})}}}]);
+//# sourceMappingURL=6.5d0968c1.chunk.js.map

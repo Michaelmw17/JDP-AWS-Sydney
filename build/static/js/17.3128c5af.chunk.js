@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[17],{113:function(e,a,n){},307:function(e,a,n){},344:function(e,a,n){"use strict";n.r(a);n(0);var t=n(105),c=(n(113),n(307),n(3));a.default=function(e){e.image;return Object(c.jsx)(t.LazyLoadImage,{effect:"blur","max-age":"31536000",src:"./itc-logo-red.png",alt:"In The Cove",className:"red-icon"})}}}]);
-//# sourceMappingURL=17.3128c5af.chunk.js.map
