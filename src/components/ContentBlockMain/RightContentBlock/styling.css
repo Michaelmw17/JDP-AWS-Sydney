@@ -1,0 +1,22 @@
+.div-wrapper {
+    background-color: black;
+    display: flex; 
+    justify-content: space-between;
+}
+
+.icon:hover {
+   color: white;
+}
+.icon {
+    color:"#000";
+    font-size: 20;
+    padding-top: 5;
+}
+.Main-Title {
+    padding:  3.7rem 0.5rem 0.5rem 0.3rem;
+}
+@media (min-width: 900px) {
+    .Main-Title {
+        padding:  0.7rem 0.5rem 2rem 0.3rem;
+    }
+}
